@@ -1,2 +1,2 @@
 # removebgbot
-This Bot Removes a background from your image
+Image background remover bot using remove.bg API
